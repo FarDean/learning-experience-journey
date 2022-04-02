@@ -1,9 +1,11 @@
 ## Go code organization
 
 **package**: is a collection of source files in the same directory.
+
 **module**: is a collection of Go packages that are released together.
 a Go repo typically contains only one module.
-**go.mod**: a file that declares the `module path`. the import path for all packages within the module.
+
+**go.mod**: a file that declares the `module path`, the import path for all packages within the module.
 
 
 ## First step
