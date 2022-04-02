@@ -1,1 +1,1 @@
-Start.
+1. :small_blue_diamond: [Day1](https://breakdance.github.io/breakdance/) - Code organization and First steps
