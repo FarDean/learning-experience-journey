@@ -1,1 +1,1 @@
-1. :small_blue_diamond: [Day1](https://breakdance.github.io/breakdance/) - Code organization and First steps
+1. :small_blue_diamond: [Day1](https://github.com/FarDean/learning-experience-journey/blob/main/day1/README.md) - Code organization and First steps
