@@ -46,4 +46,4 @@ $ go install
 $ hello
 ```
 
-[Refrence](https://go.dev/doc/code)
+[Reference](https://go.dev/doc/code)
