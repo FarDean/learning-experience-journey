@@ -4,6 +4,6 @@
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-	 [Day2]: <https://github.com/FarDean/learning-experience-journey/blob/main/content/day2/README.md>
    [Day1]: <https://github.com/FarDean/learning-experience-journey/blob/main/content/day1/README.md>
+	 [Day2]: <https://github.com/FarDean/learning-experience-journey/blob/main/content/day2/README.md>
 	 [Day3]: <https://github.com/FarDean/learning-experience-journey/tree/main/content/day3/README.md>
